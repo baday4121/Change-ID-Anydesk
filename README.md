@@ -8,7 +8,7 @@ This script allows you to change the AnyDesk ID
 
 ## How to Use
 1. Download or clone this repository.
-2. Right-click the `change_anydesk_id.bat` file and select "Run as Administrator".
+2. Right-click the `Change ID Anydesk.bat` file and select "Run as Administrator".
 
 ## Requirements
 - AnyDesk must be closed before running the script.
